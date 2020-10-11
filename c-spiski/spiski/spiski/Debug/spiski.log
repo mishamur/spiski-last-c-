@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\misha\source\repos\spiski\spiski\source.cpp(34): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  spiski.vcxproj -> C:\Users\misha\source\repos\spiski\Debug\spiski.exe
